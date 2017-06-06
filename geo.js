@@ -2,27 +2,7 @@ var restaurants = [
     { 
         name: "El Rdo", address: "asdfdsf",
         lat: -117.5755647, lon: 47.4881801
-    },
-    { 
-        name: "Gran Dragon", address: "Via Nomentana, 49",
-        lat: 41.9054717, lon: 12.4758192
-    },
-    { 
-        name: "Ale Carrete", address: "Via della Madonna dei Monti, 95",
-        lat: 41.8865606, lon: 12.4588248
-    },
-    { 
-        name: "Ristorante Scarpone", address: "Via di S. Pancrazio, 15",
-        lat: 41.8814485, lon: 12.4234625
-    },
-    { 
-        name: "Papetto", address: "Circonvallazione Gianicolense, 91",
-        lat: 41.864448, lon: 12.4203726
-    },
-    { 
-        name: "Ristorante Euro Bangla", address: "Via Eratostene, 44",
-        lat: 41.8741583, lon: 12.5150818
-    },
+    }
 ];
 
 /* Calculate distance between two points in Earth in KM */
