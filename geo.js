@@ -1,6 +1,6 @@
 var restaurants = [
     { 
-        name: "Sushi Shop", address: "Via Po 160",
+        name: "El Rdo", address: "asdfdsf",
         lat: -117.5755647, lon: 47.4881801
     },
     { 
